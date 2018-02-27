@@ -1,0 +1,61 @@
+{
+	"modules":
+	{
+		"screening-ess":   	{"table_id":"20010831","url":"modules/edc/task/ess.html","form_module":"ess-s-form"},	"ess-s-form":  {"table_id":"20010831","url":"modules/edc/task/ess.form.html"},
+		"baseline-ess":    	{"table_id":"20010836","url":"modules/edc/task/ess.html","form_module":"ess-b-form"},	"ess-b-form":   {"table_id":"20010836","url":"modules/edc/task/ess.form.html"},
+		"month-2-ess":    	{"table_id":"20010853","url":"modules/edc/task/ess.html","form_module":"ess-2-form"},	"ess-2-form":   {"table_id":"20010853","url":"modules/edc/task/ess.form.html"},
+		"month-9-ess":    	{"table_id":"20010865","url":"modules/edc/task/ess.html","form_module":"ess-9-form"},	"ess-9-form":   {"table_id":"20010865","url":"modules/edc/task/ess.form.html"},
+		"month-12-ess":    	{"table_id":"20010879","url":"modules/edc/task/ess.html","form_module":"ess-12-form"},	"ess-12-form":   {"table_id":"20010879","url":"modules/edc/task/ess.form.html"},
+		"baseline-fosq":    {"table_id":"20010838","url":"modules/edc/task/fosq.html","form_module":"fosq-b-form"},	"fosq-b-form":   {"table_id":"20010838","url":"modules/edc/task/fosq.form.html"},
+		"month-2-fosq":    	{"table_id":"20010855","url":"modules/edc/task/fosq.html","form_module":"fosq-2-form"},	"fosq-2-form":   {"table_id":"20010855","url":"modules/edc/task/fosq.form.html"},
+		"month-9-fosq":    	{"table_id":"20010867","url":"modules/edc/task/fosq.html","form_module":"fosq-9-form"},	"fosq-9-form":   {"table_id":"20010867","url":"modules/edc/task/fosq.form.html"},
+		"month-12-fosq":    {"table_id":"20010881","url":"modules/edc/task/fosq.html","form_module":"fosq-12-form"},"fosq-12-form":   {"table_id":"20010881","url":"modules/edc/task/fosq.form.html"},
+		"baseline-dass":    {"table_id":"20010839","url":"modules/edc/task/dass.html","form_module":"dass-b-form"},	"dass-b-form":   {"table_id":"20010839","url":"modules/edc/task/dass.form.html"},
+		"month-2-dass":    	{"table_id":"20010856","url":"modules/edc/task/dass.html","form_module":"dass-2-form"},	"dass-2-form":   {"table_id":"20010856","url":"modules/edc/task/dass.form.html"},
+		"month-9-dass":    	{"table_id":"20010868","url":"modules/edc/task/dass.html","form_module":"dass-9-form"},	"dass-9-form":   {"table_id":"20010868","url":"modules/edc/task/dass.form.html"},
+		"month-12-dass":    {"table_id":"20010882","url":"modules/edc/task/dass.html","form_module":"dass-12-form"},"dass-12-form":   {"table_id":"20010882","url":"modules/edc/task/dass.form.html"},
+		"baseline-iwqol":    {"table_id":"20010841","url":"modules/edc/task/iwqol.html","form_module":"iwqol-b-form"},	"iwqol-b-form":   {"table_id":"20010841","url":"modules/edc/task/iwqol.form.html"},
+		"month-2-iwqol":    	{"table_id":"20010858","url":"modules/edc/task/iwqol.html","form_module":"iwqol-2-form"},	"iwqol-2-form":   {"table_id":"20010858","url":"modules/edc/task/iwqol.form.html"},
+		"month-9-iwqol":    	{"table_id":"20010870","url":"modules/edc/task/iwqol.html","form_module":"iwqol-9-form"},	"iwqol-9-form":   {"table_id":"20010870","url":"modules/edc/task/iwqol.form.html"},
+		"month-12-iwqol":    {"table_id":"20010884","url":"modules/edc/task/iwqol.html","form_module":"iwqol-12-form"},"iwqol-12-form":   {"table_id":"20010884","url":"modules/edc/task/iwqol.form.html"},
+		"baseline-ipaq":    {"table_id":"20010843","url":"modules/edc/task/ipaq.html","form_module":"ipaq-b-form"},	"ipaq-b-form":   {"table_id":"20010843","url":"modules/edc/task/ipaq.form.html"},
+		"month-2-ipaq":    	{"table_id":"20010860","url":"modules/edc/task/ipaq.html","form_module":"ipaq-2-form"},	"ipaq-2-form":   {"table_id":"20010860","url":"modules/edc/task/ipaq.form.html"},
+		"month-9-ipaq":    	{"table_id":"20010872","url":"modules/edc/task/ipaq.html","form_module":"ipaq-9-form"},	"ipaq-9-form":   {"table_id":"20010872","url":"modules/edc/task/ipaq.form.html"},
+		"month-12-ipaq":    {"table_id":"20010886","url":"modules/edc/task/ipaq.html","form_module":"ipaq-12-form"},"ipaq-12-form":   {"table_id":"20010886","url":"modules/edc/task/ipaq.form.html"},
+		"quest_list":{
+			"list":{
+				"Screening":[
+					{"table_id":"20010831","task_name":"Screening - Epworth Sleepiness Scale"}
+				],
+				"Baseline":[
+					{"table_id":"20010836","task_name":"Baseline - Epworth Sleepiness Scale"},
+				    {"table_id":"20010838","task_name":"Baseline - Functional Outcomes of Sleep Questionnair"},
+				    {"table_id":"20010839","task_name":"Baseline - Depression Anxiety Stress Scales"},
+				    {"table_id":"20010841","task_name":"Baseline - Impact of Weight on Quality Of Life.html"},
+				    {"table_id":"20010843","task_name":"Baseline - International Physical Activity Questionnaire"}
+				],
+				"Month 2":[
+					{"table_id":"20010853","task_name":"Month 2 - Epworth Sleepiness Scale"},
+					{"table_id":"20010855","task_name":"Month 2 - Functional Outcomes of Sleep Questionnair"},
+					{"table_id":"20010856","task_name":"Month 2 - Depression Anxiety Stress Scales"},
+					{"table_id":"20010858","task_name":"Month 2 - Impact of Weight on Quality Of Life.html"},
+					{"table_id":"20010860","task_name":"Month 2 - International Physical Activity Questionnaire"}
+				],
+				"Month 9":[
+					{"table_id":"20010865","task_name":"Month 9 - Epworth Sleepiness Scale"},
+				    {"table_id":"20010867","task_name":"Month 9 - Functional Outcomes of Sleep Questionnair"},
+				    {"table_id":"20010868","task_name":"Month 9 - Depression Anxiety Stress Scales"},
+				    {"table_id":"20010870","task_name":"Month 9 - Impact of Weight on Quality Of Life.html"},
+				    {"table_id":"20010872","task_name":"Month 9 - International Physical Activity Questionnaire"}
+				],
+				"Month 12":[
+					{"table_id":"20010879","task_name":"Month 12 - Epworth Sleepiness Scale"},
+				    {"table_id":"20010881","task_name":"Month 12 - Functional Outcomes of Sleep Questionnair"},
+				    {"table_id":"20010882","task_name":"Month 12 - Depression Anxiety Stress Scales"},
+				    {"table_id":"20010884","task_name":"Month 12 - Impact of Weight on Quality Of Life.html"},
+				    {"table_id":"20010886","task_name":"Month 12 - International Physical Activity Questionnaire"}
+				]
+			}
+		}
+	}
+}

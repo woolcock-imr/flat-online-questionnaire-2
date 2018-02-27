@@ -1,0 +1,6 @@
+{
+	"modules":
+	{
+		"flat-online-home":	  {"url":"modules/website/task/home.html", "name_for_search":"FLAT online questionnaire"}
+	}
+}
